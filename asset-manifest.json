@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CodeClub-Collaborative/static/css/main.073c9b0a.css",
+    "main.js": "/CodeClub-Collaborative/static/js/main.79cf1929.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CodeClub-Collaborative/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/CodeClub-Collaborative/static/media/logo.450d98f9d81d1f30a71b.png",
+    "index.html": "/CodeClub-Collaborative/index.html",
+    "main.073c9b0a.css.map": "/CodeClub-Collaborative/static/css/main.073c9b0a.css.map",
+    "main.79cf1929.js.map": "/CodeClub-Collaborative/static/js/main.79cf1929.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CodeClub-Collaborative/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79cf1929.js"
+  ]
+}
