@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/CodeClub-Collaborative/static/css/main.073c9b0a.css",
-    "main.js": "/CodeClub-Collaborative/static/js/main.79cf1929.js",
+    "main.js": "/CodeClub-Collaborative/static/js/main.3e6d9b27.js",
     "static/js/787.28cb0dcd.chunk.js": "/CodeClub-Collaborative/static/js/787.28cb0dcd.chunk.js",
+    "static/media/First_Floor_rea.png": "/CodeClub-Collaborative/static/media/First_Floor_rea.90d5bd4fa8ed8c7b2345.png",
     "static/media/logo.png": "/CodeClub-Collaborative/static/media/logo.450d98f9d81d1f30a71b.png",
     "index.html": "/CodeClub-Collaborative/index.html",
     "main.073c9b0a.css.map": "/CodeClub-Collaborative/static/css/main.073c9b0a.css.map",
-    "main.79cf1929.js.map": "/CodeClub-Collaborative/static/js/main.79cf1929.js.map",
+    "main.3e6d9b27.js.map": "/CodeClub-Collaborative/static/js/main.3e6d9b27.js.map",
     "787.28cb0dcd.chunk.js.map": "/CodeClub-Collaborative/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.79cf1929.js"
+    "static/js/main.3e6d9b27.js"
   ]
 }
