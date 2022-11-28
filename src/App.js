@@ -1,4 +1,5 @@
 import logo from './logo.png';
+import First_Floor from './First_Floor_rea.png'
 import './App.css';
 
 function App() {
@@ -19,6 +20,9 @@ function App() {
         >
           Join the Discord Server
         </a>
+        <span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp;</span>
+        <img src={First_Floor} className="Map" alt="map"/>
+
       </header>
     </div>
   );
