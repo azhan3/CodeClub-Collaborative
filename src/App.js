@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Join the Discord Server
+          Join the Code Club Discord Server
         </a>
         <span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp;</span>
         <img src={First_Floor} className="Map" alt="map"/>
